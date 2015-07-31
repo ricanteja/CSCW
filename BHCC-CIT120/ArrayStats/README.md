@@ -1,0 +1,2 @@
+# ArrayStats
+This program was for a CS college course. This lab prompts the user to enter scores for students until an array is filled and then the program prints the highest score, the lowest score and the average score.
