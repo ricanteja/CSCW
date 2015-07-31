@@ -1,0 +1,15 @@
+{Imagine}         {John Lennon}		   3:40
+{Billie Jean}     {Michael Jackson}   23:57
+{Yesterday}       {Beatles}			 33:48
+{Stayin' Alive}   {The Bee Gees}	 3:19
+{Hotel California} {Eagles}        4:17
+{Can't Take My Eyes off You}    {Frankie Valli}		6:01
+{Singin' In The Rain'}	{Gene Kelly}  4:15
+{Mrs. Robinson}		{Simom & Garfunkel}		3:12
+{White Christmas}   {Bing Crosby}   4:26
+{Dancing Queen}  {Abba}   3:54
+{Thriller}  {Michael Jackson}   3:15
+{Strangers In The Night}   {Frank Sinatra}   4:07
+{Over and Over}   {Mouskouri}   4:43
+{Mama Mia}  {ABBA}  3:28
+
