@@ -1,1 +1,8 @@
+Monster/Release/
+Monster/Debug/
+*.iobj
+*.ipdb
+*.opensdf
 *.class
+*.tlog
+*.idb
