@@ -1,0 +1,8 @@
+{Michael Jordan}	  {Chicago Bulls}			200		100
+{LeBron James}	more stuff	{Cleveland Cavaliers}		235		198
+{Magic Johnson}		{LA Lakers}					857		684
+4 {Shaquille O'Neal}		{LA Lakers}				784     357         	{Orlando Magic/Miami Heat/Pheonix Suns/Clevelant Cavaliers/Boston Celtics}
+{Larry Bird}		  {Boston Celtics}			624		547
+{Yao Ming}		   {Houston Rockets}			901		738
+{Charles Barkley}		{Houston Rockets}		697     652           {Phoenix Suns}
+{Steve Nash}			{LA Lakeers}			702     473             {Phoenix Suns}

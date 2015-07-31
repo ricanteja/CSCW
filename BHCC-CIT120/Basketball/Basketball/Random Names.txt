@@ -1,0 +1,5 @@
+{Supper Star} {Successfull Team}   896  795
+{Great Shooter} {Other Team}   654 634
+{Never Heard of him}  {No Name team}   245 74
+{Bad Player}   {Other Team}   142 6
+

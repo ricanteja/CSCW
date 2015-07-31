@@ -13,6 +13,10 @@ There are 7 different functions that the program can do and these are:
 
 4) Enter an integer - Also very straight forward. The program will check the input before accepting it (or crashing).
 
-5) Enter a prime number - Enter a prime number.
+5) Enter a prime number - You will be prompted to input a prime number and the program will validate that it is indeed prime.
 
-6) Classify a number as deficient, perfect, or abundant. A number is deficient when the sum of all it's factors is less than the number itself, perfect when the sum of the factors equal the number and abundant when the sum of the factors is greater than the number. This is 
+6) Classify a number as deficient, perfect, or abundant. A number is deficient when the sum of all it's factors is less than the number itself, perfect when the sum of the factors equal the number and abundant when the sum of the factors is greater than the number. This is of course not including the number itself in the sum of the factors.
+
+7) Prints the ASCII table with customizable formatting. You can choose the number of columns you want and the program takes care of the rest.
+
+The final option simply quits the program
