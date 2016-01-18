@@ -1,0 +1,16 @@
+﻿Build started 8/20/2015 4:15:28 PM.
+     1>Project "J:\_code\_repos\CourseWork\BHCC-CIT120\Basketball\Basketball\Basketball.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt Basketball.cpp Function.cpp
+         Function.cpp
+         Basketball.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"J:\_code\_repos\CourseWork\BHCC-CIT120\Basketball\x64\Debug\Basketball.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"J:\_code\_repos\CourseWork\BHCC-CIT120\Basketball\x64\Debug\Basketball.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"J:\_code\_repos\CourseWork\BHCC-CIT120\Basketball\x64\Debug\Basketball.lib" /MACHINE:X64 x64\Debug\Basketball.obj
+         x64\Debug\Function.obj
+         Basketball.vcxproj -> J:\_code\_repos\CourseWork\BHCC-CIT120\Basketball\x64\Debug\Basketball.exe
+     1>Done Building Project "J:\_code\_repos\CourseWork\BHCC-CIT120\Basketball\Basketball\Basketball.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.08
