@@ -9,4 +9,4 @@ BHCC-CIT239 was focused on Java shifting towards JavaFX near the end of the cour
 
 ## Georgia State University
 
-Got accepted but haven't taken any classes yet...
+GSU-CSC2010 was an introductory course for Computer Science. The class covered the binary number system, logic gates and everything else you would expect in an intro CS course. It was painfully easy but it wasn't the professors fault. I've been doing this for so long I could teach the class by now. Nothing too interesting in terms of projects came out of the class. I've posted 3 of the ones I found most interesting.
